@@ -3,7 +3,7 @@
 # Author: Disassembler <disassembler@dasm.cz>
 # Version: v3.9, 2020-04-02
 # Source: https://github.com/Disassembler0/Win10-Initial-Setup-Script
-https://checkthebenchmarks.com/2020/05/28/line-by-line-description-of-what-win10-initial-setup-script-v3-9-does-what-happens-if-you-disable-or-enable-each-line/
+# Info: https://checkthebenchmarks.com/2020/05/28/line-by-line-description-of-what-win10-initial-setup-script-v3-9-does-what-happens-if-you-disable-or-enable-each-line/
 ##########
 
 ### Require administrator privileges ###
