@@ -210,7 +210,7 @@ UninstallMediaPlayer          # InstallMediaPlayer
 UninstallWorkFolders          # InstallWorkFolders
 UninstallHelloFace            # InstallHelloFace
 UninstallMathRecognizer       # InstallMathRecognizer
-# UninstallPowerShellV2         # InstallPowerShellV2
+UninstallPowerShellV2         # InstallPowerShellV2
 # UninstallPowerShellISE        # InstallPowerShellISE
 # InstallLinuxSubsystem         # UninstallLinuxSubsystem
 # InstallHyperV                 # UninstallHyperV
@@ -235,7 +235,7 @@ RemoveFaxPrinter                # AddFaxPrinter
 
 ### Unpinning ###
 UnpinStartMenuTiles
-UnpinTaskbarIcons
+#UnpinTaskbarIcons
 
 ### Auxiliary Functions ###
 Restart
